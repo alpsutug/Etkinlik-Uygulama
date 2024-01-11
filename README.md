@@ -4,7 +4,7 @@ Etkinlik Uygulaması (Kullanıcı Giriş,Admin Panel,Sepete Ekle)
 Hemen Yanında bulunan Etkinlikler kısmında ise yine ana sayfamda bulunan etkinliklere ait bir sayfa bulunmakta. Admin Paneli sadece admin girişi 
 yapıldığında geliyor. Ve hakkımızda kısmında ise Bize Ulaşın, Kurum Politikası, Sosyal Hesaplar gibi kısımlar mevcut. Giriş yapmadan sepete gitmeye çalışırsak
 giriş sayfasına yönlendiriliyoruz. Giriş yaptıktan sonra etkinlik seçtikten sonra direkt sepete git butonuna basarsak hata alıyoruz çünkü öncelikle
-Etkinlik için koltk seçimi yapılmalı. Koltuk seçimi yapıldıktan sonra en altta haritadan etkinlik yeri de görülebilir. Sonrasında septe git diyoruz.
+Etkinlik için koltuk seçimi yapılmalı. Koltuk seçimi yapıldıktan sonra en altta haritadan etkinlik yeri de görülebilir. Sonrasında sepete git diyoruz.
 Gelen sayfada hangi etkinliği satın alıyor olduğumuzu ve bilgilerini görüyoruz. Aslında bu projeyi düşünürken bir alışveriş sitesi gibi düşündüm çünkü
 sepete ekle ve koltuk seçme kısmı beni bu tasarıma itti. Admin panelinde ise kullanıcı, kategori ekleme ve daha bir çok özellik bulunmakta. Projeye erişmek için
 Microsoft SQL Server'in bilgisayarımızda kurulu olması lazım. Databaseden tablo oluşturmak yerine tüm bağlantılarım kodların içerisinde.
